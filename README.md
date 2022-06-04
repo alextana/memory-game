@@ -1,3 +1,5 @@
+# Repo for the memory game tutorial article
+
 Whilst building my portfolio website I thought it would be cool to add a little memory game for the user to play and decided it could be a great fun project to get some curious programmers to check out this wonderful compiler/framework called **Svelte**.
 
 ## Preview of what we're about to build:
